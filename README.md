@@ -32,4 +32,4 @@ Thanks, to you all.
 
 ### Additional Examples
 
-![alt text](pictures/charactersheet2.png)
+![alt text](pictures/charactersheet.png)
