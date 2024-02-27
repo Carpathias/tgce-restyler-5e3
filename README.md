@@ -9,7 +9,7 @@ Thanks, to you all.
 
 ## Player Character Sheet Visual Enhancements
 
-![alt text](pictures/charactersheet2.png)
+![alt text](pictures/charactersheet2.png) ![alt text](pictures/charactersheet3.png)
 
 - The navigation tabs have been relocated to the character sheet header and dressed up a bit. 
 - The header image can be replaced, or removed.
@@ -29,3 +29,7 @@ Thanks, to you all.
 ![alt text](pictures/chatcardpills.png) ![alt text](pictures/chatcardpills2.png)
 
 - The chat pills for profieicy and equipped status will be color coded. These are currently color coded green/maroon, but in a future release will be selectable to account for color blindness. 
+
+### Additional Examples
+
+![alt text](pictures/charactersheet2.png)
