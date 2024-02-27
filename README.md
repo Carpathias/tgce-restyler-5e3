@@ -1,5 +1,7 @@
 ![alt text](pictures/TGCE-logo-onlyLetters.png)
 
+# Resources and tools helping DMs and Players acheive The Greatest Campaign Ever!
+
 # [TGCE] Restyler for DnD5e 3.0
 
 This module allows for restyling of some of the DnD5e System components for Foundry VTT. 
