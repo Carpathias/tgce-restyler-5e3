@@ -31,6 +31,18 @@ Thanks, to you all.
 
 - The chat pills for profieicy and equipped status will be color coded. These are currently color coded green/maroon, but in a future release will be selectable to account for color blindness. 
 
+## Provided sheet banners
+
+- The following four images, sized at 800x170 pixels, can be found in the modules/tgce-restyler-5e3/assets folder. You will have to manually navigate to the location using the file picker. This location will be set as default in a future release. 
+
+![alt text](assets/sheet-banner-darkblood.jpg)
+
+![alt text](assets/sheet-banner-dwarf1.jpg)
+
+![alt text](assets/sheet-banner-goliath.jpg)
+
+![alt text](assets/sheet-banner-stoneface.jpg)
+
 ### Additional Examples
 
 ![Hue Rotation (only) of stock DnD5e sheet](pictures/charactersheet.png)
