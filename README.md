@@ -8,13 +8,15 @@ Creating this module would not have been possible without the wonderful people w
 Thanks, to you all. 
 
 Player Character Sheet
+
 ![alt text](pictures/charactersheet2.png)
 
 
-
-
 The navigation tabs have been relocated to the character sheet header and dressed up a bit. 
-The 
+The header image can be replaced, or removed.
+The header background color can be selected. This is typically buried under the image, but if the image is replaced, or one with transparency is used, the color will be visible.
+Some header text elements can be colored. 
+A button is added to the skill tree to toggle between skill and tools, reducing overall shett height. Especially on higher level characters with many tool proficiencies. 
 
 ![alt text](pictures/skills-tools-toggle1.png) ![alt text](pictures/skills-tools-toggle2.png)
 
