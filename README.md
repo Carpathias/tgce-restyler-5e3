@@ -1,13 +1,13 @@
 ![alt text](pictures/TGCE-logo-onlyLetters.png)
 
-#[TGCE] Restyler for DnD5e 3.0
+# [TGCE] Restyler for DnD5e 3.0
 
 This module allows for restyling of some of the DnD5e System components for Foundry VTT. 
 Creating this module would not have been possible without the wonderful people who haunt the various channels of the Official Foundry VTT Discord Server. 
 
 Thanks, to you all. 
 
-##Player Character Sheet
+## Player Character Sheet
 
 ![alt text](pictures/charactersheet2.png)
 
@@ -20,7 +20,7 @@ Thanks, to you all.
 
 ![alt text](pictures/skills-tools-toggle1.png) ![alt text](pictures/skills-tools-toggle2.png)
 
-##Chatcard Pill color highlights.
+## Chatcard Pill color highlights.
 
 ![alt text](pictures/chatcardpills.png) ![alt text](pictures/chatcardpills2.png)
 
