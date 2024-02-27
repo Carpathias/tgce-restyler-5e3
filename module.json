@@ -1,0 +1,47 @@
+{
+  "id": "tgce-restyler-5e3",
+  "title": "Restyler for DnD5e 3.0",
+  "description": "Restyle Core and DnD5e 3.0 System elements to taste.",
+  "authors": [
+    {
+    "name": "Carpathias",
+    "discord": "Carpathias",
+    "email": "carpathias@thegreatestcampaignever.com",
+    "url": "https://thegreatestcampaignever.com"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11.315",
+    "verified": "11.315"
+  },
+  "styles": [
+    "./styles/tgce-restyler-5e3-ss.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "./languages/en.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+        "compatibility": {
+          "minimum": "3.0.0",
+          "verified": "3.0.2"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "./scripts/tgce-restyler-5e3.js"
+  ],
+  "url": "https://github.com/Carpathias/tgce-restyler-5e3",
+  "manifest": "https://github.com/carpathias/tgce-mod/releases/download/v1.0.1/module.json",
+  "download": "https://github.com/carpathias/tgce-mod/releases/download/v1.0.1/tgce-mod-v1.0.1.zip"
+}

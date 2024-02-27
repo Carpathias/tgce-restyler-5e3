@@ -1,0 +1,10 @@
+{
+    "TGCE-MOD": {
+        "settings": {
+            "header-color": {
+                "Name": "Character Sheet Header Color",
+                "Hint": "Choose a value between 0 and 360 from the 'hue-rotate' color wheel."
+            }
+        }
+    }
+}
