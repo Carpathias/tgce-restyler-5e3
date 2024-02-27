@@ -9,7 +9,7 @@ Thanks, to you all.
 
 ## Player Character Sheet Visual Enhancements
 
-![alt text](pictures/charactersheet2.png)
+![alt text](pictures/charactersheet2.png) ![alt text](pictures/charactersheet3.png)
 
 - The navigation tabs have been relocated to the character sheet header and dressed up a bit. 
 - The header image can be replaced, or removed.
@@ -33,3 +33,4 @@ Thanks, to you all.
 
 ### Additional Examples
 
+![Hue Rotation (only) of stock DnD5e sheet](pictures/charactersheet.png)
