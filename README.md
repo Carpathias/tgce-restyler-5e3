@@ -1,18 +1,21 @@
-![alt text](assets/TGCE-logo-onlyLetters.png)
+![alt text](pictures/TGCE-logo-onlyLetters.png)
 
-tgce-mod v1.0.1
+[TGCE] Restyler for DnD5e 3.0
 
-My first Foundry VTT mod.
+This module allows for restyling of some of the DnD5e System components for Foundry VTT. Creating this module would not have been possible without the wonderful people who haunt the various channels of the Official Foundry VTT Discord Server. Thanks, to you all. 
 
-This module adds some CSS styles to modify the header color and placement of the sheet tabs on the new DnD5e 3.0 Character sheet and some of the required Hooks for the chat pill and skill/tool mods.  
+Player Character Sheet
+![alt text](pictures/charsheet2.jpg)
 
-There is also a skills/tools toggle so that the sheet doesnt have to be scrolled so much. Just a start, hope to do more. 
+The navigation tabs have been relocated to the character sheet header and dressed up a bit. 
+The 
 
-I owe credits to people on the Foundry VTT Discord Server from the DnD5e channel. You know who you are, I will let others know soon. 
+![alt text](pictures/skills-tools-toggle1.png) ![alt text](pictures/skills-tools-toggle2.png)
 
-Changing the header color. This was initially driven by Dyingnoob and prompted a lot of discussion. Thanks!
+- Chat Cards
 
-![alt text](pictures/charsheet.png)
+
+
 
 Tools/Skills toggle. This was all Zhell. Thanks!
 
