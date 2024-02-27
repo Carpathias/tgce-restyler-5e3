@@ -13,7 +13,7 @@ Thanks, to you all.
 
 - The navigation tabs have been relocated to the character sheet header and dressed up a bit. 
 - The header image can be replaced, or removed.
-- The header background color can be selected. This is typically buried under the image, but if the image is replaced, or one with transparency is used, the color will be visible.
+- The header background color can be selected. This is typically buried under the image, but if the image is removed, or one with transparency is used, the color will be visible.
 - Some header text elements can be colored.
 - Hue-Rotation: A color filter can be applied to the entire header, affecting all elements, using the hue-rotation method.
 -- https://www.w3schools.com/cssref/playdemo.php?filename=playcss_filter&preval=hue-rotate(90deg) for an example
