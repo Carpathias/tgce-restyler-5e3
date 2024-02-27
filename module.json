@@ -42,6 +42,6 @@
     "./scripts/tgce-restyler-5e3.js"
   ],
   "url": "https://github.com/Carpathias/tgce-restyler-5e3",
-  "manifest": "https://github.com/carpathias/tgce-mod/releases/download/v1.0.1/module.json",
-  "download": "https://github.com/carpathias/tgce-mod/releases/download/v1.0.1/tgce-mod-v1.0.1.zip"
+  "manifest": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/v1.0.0/module.json",
+  "download": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/v1.0.0/tgce-restyler-5e3-v1.0.0.zip"
 }
