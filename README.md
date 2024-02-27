@@ -44,5 +44,5 @@ Thanks, to you all.
 ![alt text](assets/sheet-banner-stoneface.jpg)
 
 ### Additional Examples
-
+- The picture below uses only the Hue Rotation option to adjust the coloring of the header on an otherwise stock DnD5e character sheet. 
 ![Hue Rotation (only) of stock DnD5e sheet](pictures/charactersheet.png)
