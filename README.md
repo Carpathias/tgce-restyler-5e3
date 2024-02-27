@@ -5,7 +5,7 @@
 This module allows for restyling of some of the DnD5e System components for Foundry VTT. Creating this module would not have been possible without the wonderful people who haunt the various channels of the Official Foundry VTT Discord Server. Thanks, to you all. 
 
 Player Character Sheet
-![alt text](pictures/charsheet2.jpg)
+![alt text](pictures/charsheet2.png)
 
 
 
