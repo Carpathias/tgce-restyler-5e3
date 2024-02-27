@@ -7,6 +7,9 @@ This module allows for restyling of some of the DnD5e System components for Foun
 Player Character Sheet
 ![alt text](pictures/charsheet2.jpg)
 
+
+
+
 The navigation tabs have been relocated to the character sheet header and dressed up a bit. 
 The 
 
