@@ -4,7 +4,9 @@
 - initial release.
 
 ##v1.1.0
+
 ###[Issue#0001] Filepicker defaults to DND5e System folder
-  Resolved. 
+- Resolved.
+  
 ###[Feature#0001] Need to add option to enable/disable relocation of nav buttons.
-  Complete. 
+- Complete. 
