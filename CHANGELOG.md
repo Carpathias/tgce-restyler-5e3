@@ -1,7 +1,7 @@
 # [CHANGELOG]: TGCE Restyler for DnD5e 3.0
    
 ## v1.1.1
-### [Issue#0002] Relocation Nav Button / Not working - Running on forge-vtt.com
+### Issue#4 Relocation Nav Button / Not working - Running on forge-vtt.com
 - Repackaged to v1.1.1 for troubleshooting this issue.
 
 Update
