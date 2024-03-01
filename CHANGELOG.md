@@ -6,7 +6,7 @@
 
 Update
 https://github.com/Carpathias/tgce-restyler-5e3/issues/4
-- Continuing to work on Issue#0002 
+- Continuing to work on Issue#4
 - After the v1.1.1 update Foundry/Forge did not recognize the update
 - Manually installed v1.1.1 update from manifest in local dev instance and Forge-vtt instance
   - Nav tab functionality issues seemed resolved in Forge-vtt instance
