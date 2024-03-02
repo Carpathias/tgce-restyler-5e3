@@ -13,8 +13,9 @@ Thanks, to you all.
 
 ![alt text](pictures/charactersheet2.png) ![alt text](pictures/charactersheet3.png)
 
+- The entire character sheet is scalable from .8 (80% of default) to 1 (default)
 - The navigation tabs have been relocated to the character sheet header and dressed up a bit.
-  - As of v1.1.0 this is now optional, is per sheet, but can be forced globally per user.     
+  - As of v1.2.0 this is now optional.     
 - The header image can be replaced, or removed.
 - The header background color can be selected.
   - This is typically buried under the image, but if the image is removed, or one with transparency is used, the color will be visible.
@@ -33,7 +34,8 @@ Thanks, to you all.
 
 ![alt text](pictures/chatcardpills.png) ![alt text](pictures/chatcardpills2.png)
 
-- The chat pills for profieicy and equipped status will be color coded. These are currently color coded green/maroon, but in a future release will be selectable to account for color blindness. 
+- The chat pills for profieicy and equipped status will be color coded. These are currently color coded green/maroon, but in a future release will be selectable to account for color blindness.
+- Concentration pill is colored yellow with black text to be more visible. 
 
 ## Provided sheet banners
 
@@ -46,6 +48,10 @@ Thanks, to you all.
 ![alt text](assets/sheet-banner-goliath.jpg)
 
 ![alt text](assets/sheet-banner-stoneface.jpg)
+
+![alt text](assets/sheet-banner-lightrays.jpg)
+
+All of these pictures are proprietary content created by myself. 
 
 ### Additional Examples
 - The picture below uses only the Hue Rotation option to adjust the coloring of the header on an otherwise stock DnD5e character sheet.
