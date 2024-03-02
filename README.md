@@ -32,7 +32,7 @@ Thanks, to you all.
 
 ## Chatcard Pill color highlights.
 
-![alt text](pictures/notprofequippill.jpg)![alt text](pictures/profnotequippill.jpg)![alt text](pictures/concentrationpill.jpg)
+![alt text](pictures/notprofequippill.jpg)![alt text](pictures/concentrationpill.jpg)![alt text](pictures/profnotequippill.jpg)
 
 - The chat pills for profieicy and equipped status will be color coded. These are currently color coded green/maroon, but in a future release will be selectable to account for color blindness.
 - Concentration pill is colored yellow with black text to be more visible. 
