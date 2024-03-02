@@ -1,5 +1,16 @@
 # [CHANGELOG]: TGCE Restyler for DnD5e 3.0
-   
+
+## v1.2.0
+### Resolved Issue[#4](https://github.com/Carpathias/tgce-restyler-5e3/issues/4)
+- Relocate Navigation Tabs
+  - The additional nav tab has been removed in favor of just a single Boolean setting to enable/disable.
+  - This setting does require a reload.
+- Other Changes
+  - Character sheet no longer needs opened and closed to refresh style settings.
+    - Settings will apply as soon as Settings UI is saved and closed. 
+  - Added additional chat pill highlighting for Concentration tag.
+  - Added the ability to scale the entire sheet down to .8 (80%) of default.
+
 ## v1.1.1
 ### Issue#4 Relocation Nav Button / Not working - Running on forge-vtt.com
 - Repackaged to v1.1.1 for troubleshooting this issue.
@@ -21,10 +32,10 @@ https://github.com/Carpathias/tgce-restyler-5e3/issues/4
 - Will need to monitor and continue testing on Forge. 
 
 ## v1.1.0
-### [Issue#0001] Filepicker defaults to DND5e System folder. 
+### Issue[#1] 
 - Resolved.
   
-### [Feature#0001] Need to add option to enable/disable relocation of nav buttons.
+### Issue[#2] Need to add option to enable/disable relocation of nav buttons.
 - Complete. 
 
 ## v1.0.0
