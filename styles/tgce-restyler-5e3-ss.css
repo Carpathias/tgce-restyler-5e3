@@ -1,0 +1,92 @@
+/*  ----- TGCE Custom CSS ----- */
+/*  I had a lot of help from very smart people on the Foundry VTT Discord Server in the DnD5e channel.   */
+/*      Will try to get credits in here at some point                                                    */
+
+:root {
+    /* Sheet Header Variables */
+    --tgce-restyler5e3-sheet-scale                  : 1;
+    --tgce-restyler5e3-header-hue-rotate            : 0deg;
+    --tgce-restyler5e3-header-bg-color              : var(--dnd5e-color-hd2);
+    --tgce-restyler5e3-header-name-color            : var(--color-text-light-0);
+    --tgce-restyler5e3-header-text-color            : var(--dnd5e-color-gold);
+    --tgce-restyler5e3-header-image                 : url("../../../systems/dnd5e/ui/official/banner-character.jpg");
+    
+    /* Sheet Section Variables */
+    --tgce-restyler5e3-sheet-card-headers-l         : var(--dnd5e-color-hd-1);
+    --tgce-restyler5e3-sheet-card-headers-r         : var(--dnd5e-color-hd-2);
+    --tgce-restyler5e3-sheet-card-headers-txt       : white;
+}
+
+/*! --- Chat Card Changes --- */
+.card-footer.pills .pill.green {
+    background-color: var(--dnd5e-color-green);
+}
+.card-footer.pills .pill.maroon {
+    background-color: var(--dnd5e-color-maroon);
+}
+.card-footer.pills .pill.yellow {
+    background-color: #fff017;
+    color: var(--dnd5e-color-dark);
+    border: solid 2px
+}
+.card-footer.pills .pill.green, .card-footer.pills .pill.maroon {
+    color: var(--color-text-light-0);
+}
+
+
+/*! --- DND5e2 Player Character Sheet Changes ---  */
+/**  -- Whole Sheet -- */
+.dnd5e2.sheet.actor.character {
+    transform: scale(var(--tgce-restyler5e3-sheet-scale));
+}
+
+/**  -- Header & Main Page -- */
+.dnd5e2.sheet.actor.character .sheet-header {
+    background-image: var(--tgce-restyler5e3-header-image);
+    background-color: var(--tgce-restyler5e3-header-bg-color);
+    filter: hue-rotate(var(--tgce-restyler5e3-header-hue-rotate));
+}
+
+/**   - Character Sheet Name Text - */
+.dnd5e2.sheet.actor.character .sheet-header .document-name {
+    color: var(--tgce-restyler5e3-header-name-color);    
+}
+/**   - Character Sheet Header Text */
+/*?   * Targets the text for cLass and class level on the left side */
+.dnd5e2.sheet.actor.character .sheet-header > .left .class {
+    color: var(--tgce-restyler5e3-header-text-color);    
+}
+/*?   * Targets the XP counter text on the right side */
+.dnd5e2.sheet.actor.character .sheet-header > .right > div:last-child .xp-label {
+    color: var(--tgce-restyler5e3-header-text-color);
+}
+/*?   * Targets the character level badge and text */ 
+/*TODO  */
+
+/**  -- Skills/Tools toggle when in play mode - */
+/*?   * Allows for the toggleing between skills/tools on the main page to reduce sheet height*/
+.dnd5e2.sheet.actor.character .sheet-body .tab-body .col-2 > .left:has(.hide-skill) .skills,
+.dnd5e2.sheet.actor.character .sheet-body .tab-body .col-2 > .left:has(.hide-tool) .tools {
+    display: none;
+}
+.dnd5e2.sheet.actor.character .sheet-body .tab-body .col-2 .swap {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    z-index: 1;
+}
+.dnd5e2.sheet.actor.character .sheet-body .tab-body .col-2 > .left {
+    position: relative;
+}
+
+/** --- Other Player Character Sheet Pages */
+/**  -- Section Headers (ie.. Inventory => Weapons, Consumables.. Spells => Cantrip, 1st Level, etc..) - */
+.dnd5e2 .card .header { 
+    background: linear-gradient(to right, var(--tgce-restyler5e3-sheet-card-headers-l), var(--tgce-restyler5e3-sheet-card-headers-r));
+    color:  var(--tgce-restyler5e3-sheet-card-headers-txt);
+    border-radius: 3px 3px 0 0;
+    border-bottom: 1px solid var(--dnd5e-color-gold);
+}
+
+
+

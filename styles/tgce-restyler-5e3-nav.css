@@ -1,0 +1,69 @@
+:root{
+ --tgce-restyler5e3-nav : 0;
+}
+
+.dnd5e2.sheet.actor.character:not(.minimized) nav.tabs > .item {
+    width:3rem;
+    height:2rem;
+    padding:0;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius:8px;
+}
+.dnd5e2.sheet.actor.character nav.tabs > .item.active, .dnd5e2.sheet.actor.character nav.tabs > .item:hover {
+    text-shadow: none;
+    margin: 0;
+    border-color: var(--dnd5e-color-red);
+    box-shadow: 0 6px 6px var(--dnd5e-color-gold);
+    transform: scale(1.25);
+}
+.dnd5e2.sheet.actor.character nav.tabs {
+    --tab-full-width: initial;
+    --tab-inactive-width: initial;
+}
+.dnd5e2.sheet.actor.character:not(.minimized) nav.tabs > .item:after {
+    border:initial;
+    inset:0.25rem;
+    border: 1px solid var(--dnd5e-color-gold);
+    border-radius: 4px;
+}
+.dnd5e2.sheet.actor.character:not(.minimized) nav.tabs > .item > i{
+    display:block;
+}
+.dnd5e2.sheet.actor.character:not(.minimized) nav.tabs[data-group="primary"] {
+    top:10px;
+    left:8%;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    z-index:10;
+}
+.dnd5e2.sheet.actor.character .sheet-header > .right > div:last-child .sheet-header-buttons {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    position: absolute;
+    top: 1.5rem;
+    left: 0px;
+}
+.dnd5e2.sheet.actor.character .sheet-header > .right > div:last-child .sheet-header-buttons button{
+    width:2rem;
+    height:2rem;
+}
+.dnd5e2.sheet.actor.character .sheet-header > .right > div:last-child .sheet-header-buttons button:hover {
+    transform: scale(1.25);
+}
+.dnd5e2.create-document.dialog{
+    border-radius:8px;
+    border: 1px solid var(--dnd5e-color-gold);
+    width: auto !important;
+    height: auto !important;
+}
+.dnd5e2.create-document.dialog .window-header{
+    background: #000;
+    border-radius: 8px 8px 0 0;
+}
+.dnd5e2.create-document.dialog .dialog-button{
+    padding:0.25rem 0.5rem;
+}
