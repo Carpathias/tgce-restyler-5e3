@@ -10,13 +10,14 @@
     "url": "https://thegreatestcampaignever.com"
     }
   ],
-  "version": "1.2.0",
+  "version": "1.1.1",
   "compatibility": {
     "minimum": "11.315",
     "verified": "11.315"
   },
   "styles": [
-    "./styles/tgce-restyler-5e3-ss.css"    
+      "./styles/tgce-restyler-5e3-nav.css",
+      "./styles/tgce-restyler-5e3-ss.css"
   ],
   "languages": [
     {
@@ -43,7 +44,7 @@
   ],
   "url": "https://github.com/Carpathias/tgce-restyler-5e3",
   "readme": "https://github.com/Carpathias/tgce-restyler-5e3/blob/main/README.md",
-  "download": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/v1.2.0/tgce-restyler-5e3.zip",
-  "manifest": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/v1.2.0/module.json",
+  "download": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/v1.1.1/tgce-restyler-5e3.zip",
+  "manifest": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/v1.1.1/module.json",
   "changelog": "https://github.com/Carpathias/tgce-restyler-5e3/blob/main/CHANGELOG.md"
 }
