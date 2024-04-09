@@ -1,4 +1,5 @@
-![alt text](pictures/TGCE-logo-onlyLetters.png)
+
+![TGCE_RestylerLogo](https://github.com/Carpathias/tgce-restyler-5e3/assets/79472577/87a2e886-dd2c-4afb-bfd1-fb82fa05c9df)
 
 # Resources and tools helping DMs and Players acheive The Greatest Campaign Ever!
 
