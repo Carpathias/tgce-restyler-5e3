@@ -4,7 +4,7 @@
     "TgceRestyler5e3.Header": "Restyler",
     
     "TgceRestyler5e3.SettingHeaderLabel": "Enable Character Sheet Editing",
-    "TgceRestyler5e3.SettingHeaderLabelHint": "This setting enables the ability for players to edit their character sheet appearance.",
+    "TgceRestyler5e3.SettingHeaderLabelHint": "This setting enables the ability for players to edit their character sheet appearance. The Restyler UI is accessed from the paintbrush button in the header of the character sheet.",
     "TgceRestyler5e3.RelocateNav": "Relocate Nav Tabs To Header",
     "TgceRestyler5e3.RelocateNavHint": "This setting will relocate Navigation Tabs from the side to the header.",
     "TgceRestyler5e3.SkillToolToggle": "Enable Skill/Tool Toggle",
@@ -116,7 +116,7 @@
     "TgceRestyler5e3.TraitsCardLabelColor": "Trait Card Label Color (Type/Race/Background)",
     "TgceRestyler5e3.TraitsGeneralPillTextColor": "General Traits Pill Text/Border Color",
     "TgceRestyler5e3.TraitsGeneralPillBGColor": "General Traits Pill Background Color",
-    "TgceRestyler5e3.TraitsBonusPillTextColor": "Bonus Traits Pill Text/Border Color",
+    "TgceRestyler5e3.TraitsBonusPillTextColor": "Bonus Pill Text/Border Color",
     "TgceRestyler5e3.TraitsBonusPillBGColor": "Bonus Pill Background Color",
     "TgceRestyler5e3.TraitsPenaltyPillTextColor": "Penalty Pill Text/Border Color",
     "TgceRestyler5e3.TraitsPenaltyPillBGColor": "Penalty Pill Background Color"
