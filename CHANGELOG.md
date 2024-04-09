@@ -1,5 +1,14 @@
 # [CHANGELOG]: TGCE Restyler for DnD5e 3.0
 
+## v2.0.01
+- Per Actor sheet editing, settings stored as flags on Actor.
+-- Only edit one sheet at a time.
+-- Restyler UI will disable the Actor sheet close button while open. 
+- Restyler UI is now accessed from a 'paintbrush' button on the sheet header.
+-- Sheet editing can be enabled/disabled globally in settings. 
+- Navigation Tab relocation has been removed from the module.
+-- May return in a future release. 
+
 ## v1.2.0
 ### Resolved Issue[#4](https://github.com/Carpathias/tgce-restyler-5e3/issues/4)
 - Relocate Navigation Tabs
