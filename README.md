@@ -9,6 +9,8 @@ Creating this module would not have been possible without the wonderful people w
 
 Thanks, to you all. 
 
+## The Restyler UI is accessed from the Character Sheet using the header button labeled with a paintbrush.
+
 ## Player Character Sheet Visual Enhancements
 
 ![alt text](pictures/charactersheet2.png) ![alt text](pictures/charactersheet3.png)
