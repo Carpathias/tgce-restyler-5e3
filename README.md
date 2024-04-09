@@ -9,6 +9,9 @@ This module allows for restyling of some of the DnD5e System components for Foun
 Creating this module would not have been possible without the wonderful people who haunt the various channels of the Official Foundry VTT Discord Server. 
 
 Thanks, to you all. 
+![Restyler0](https://github.com/Carpathias/tgce-restyler-5e3/assets/79472577/eccee81f-9d70-4a05-bfdc-0c245e295396)
+
+![Restyler1](https://github.com/Carpathias/tgce-restyler-5e3/assets/79472577/9902473c-f8ee-4c22-b12e-696e9f3af7a6)
 
 ## The Restyler UI is accessed from the Character Sheet using the header button labeled with a paintbrush.
 
