@@ -17,6 +17,7 @@ Thanks, to you all.
 
 ## Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can us ethe macro found at the link below.
 [RESTYLER | MACRO | CopyConfigToActor](https://github.com/Carpathias/tgce-restyler-5e3/blob/main/macros/Restyler.Macro.CopyConfigToActor.js)
+
 This macro will be included in future release and will eventually make its way into core functionality of the mod. 
 
 ## Player Character Sheet Visual Enhancements
