@@ -3,7 +3,7 @@
 
 # Resources and tools helping DMs and Players acheive The Greatest Campaign Ever!
 
-# [TGCE] Restyler for DnD5e 3.0
+# [TGCE] Restyler for DnD5e 3+
 
 This module allows for restyling of some of the DnD5e System components for Foundry VTT. 
 Creating this module would not have been possible without the wonderful people who haunt the various channels of the Official Foundry VTT Discord Server. 
@@ -15,7 +15,7 @@ Thanks, to you all.
 
 ## The Restyler UI is accessed from the Character Sheet using the header button labeled with a paintbrush.
 
-### Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can use the Copy Flags to Actor macro in the Restyler MAcros compendium. 
+### Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can use the **Copy Flags from Actor** macro in the Restyler MAcros compendium. 
 
 This macro will eventually make its way into core functionality of the mod. 
 
