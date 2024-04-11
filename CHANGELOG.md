@@ -1,12 +1,12 @@
 # [CHANGELOG]: TGCE Restyler for DnD5e 3.0
 ## v2.0.03
-# Bugfixes
+### Bugfixes
 
 - added logic to accommodate for 3.0.x versions of the DnD5e system that do not have the 'theme' game setting. 
   - [Issue #8](https://github.com/Carpathias/tgce-restyler-5e3/issues/8)
 - corrected a typo in a localization string within the en.json file. 
 
-# Enhancements
+### Enhancements
 
 - added a macro compendium pack
   - **Copy Flags to Actor** (macro)
