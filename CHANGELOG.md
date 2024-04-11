@@ -9,7 +9,7 @@
 ### Enhancements
 
 - added a macro compendium pack
-  - **Copy Flags to Actor** (macro)
+  - **Copy Flags from Actor** (macro)
     - Allows for copying the Restyler config flags from one actor to another. Instructions found inside the macro comments. 
     - [Feature Request #7](https://github.com/Carpathias/tgce-restyler-5e3/issues/7)
   - **Restyler Debug Toggle** (macro)
