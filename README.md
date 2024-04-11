@@ -17,8 +17,7 @@ Thanks, to you all.
 
 ### Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can use the Copy Flags to Actor macro in the Restyler MAcros compendium. 
 
-
-This macro will be included in future release and will eventually make its way into core functionality of the mod. 
+This macro will eventually make its way into core functionality of the mod. 
 
 ## Player Character Sheet Visual Enhancements
 
