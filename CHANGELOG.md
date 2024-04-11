@@ -20,7 +20,7 @@
 
 
 ## v2.0.02
-- Fix for Issue with the module working on The Forge [#6](https://github.com/Carpathias/tgce-restyler-5e3/issues/6)
+- Fix for problem with the module working on The Forge [Issue #6](https://github.com/Carpathias/tgce-restyler-5e3/issues/6)
 
 ## v2.0.01
 - Per Actor sheet editing, settings stored as flags on Actor.
