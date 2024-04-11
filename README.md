@@ -15,9 +15,9 @@ Thanks, to you all.
 
 ## The Restyler UI is accessed from the Character Sheet using the header button labeled with a paintbrush.
 
-### Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can use the **Copy Flags from Actor** macro in the Restyler MAcros compendium. 
+### Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can use the *Copy Flags from Actor* macro in the Restyler MAcros compendium. 
 
-This macro will eventually make its way into core functionality of the mod. 
+- This macro will eventually make its way into core functionality of the mod. 
 
 ## Player Character Sheet Visual Enhancements
 
