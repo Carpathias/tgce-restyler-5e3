@@ -1,4 +1,23 @@
 # [CHANGELOG]: TGCE Restyler for DnD5e 3.0
+## v2.0.03
+# Bugfixes
+
+- added logic to accommodate for 3.0.x versions of the DnD5e system that do not have the 'theme' game setting. 
+  - [Issue #8](https://github.com/Carpathias/tgce-restyler-5e3/issues/8)
+- corrected a typo in a localization string within the en.json file. 
+
+# Enhancements
+
+- added a macro compendium pack
+  - **Copy Flags to Actor** (macro)
+    - Allows for copying the Restyler config flags from one actor to another. Instructions found inside the macro comments. 
+    - [Feature Request #7](https://github.com/Carpathias/tgce-restyler-5e3/issues/7)
+  - **Restyler Debug Toggle** (macro)
+    - Turns Restyler debug mode on/off. 
+  - **Get My Flags** (macro)
+    - Outputs all module flags to console. This has no real use or functionality yet.  
+
+
 
 ## v2.0.02
 - Fix for Issue with the module working on The Forge [#6](https://github.com/Carpathias/tgce-restyler-5e3/issues/6)
