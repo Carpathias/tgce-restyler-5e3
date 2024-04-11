@@ -1,4 +1,4 @@
-# [CHANGELOG]: TGCE Restyler for DnD5e 3.0
+# [CHANGELOG]: TGCE Restyler for DnD5e 3+
 ## v2.0.03
 ### Bugfixes
 
