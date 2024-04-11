@@ -15,25 +15,14 @@ Thanks, to you all.
 
 ## The Restyler UI is accessed from the Character Sheet using the header button labeled with a paintbrush.
 
-## Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can use the macro found at the link below.
-[RESTYLER | MACRO | CopyConfigToActor](https://github.com/Carpathias/tgce-restyler-5e3/blob/main/macros/Restyler.Macro.CopyConfigToActor.js)
+### Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can use the Copy Flags to Actor macro in the Restyler MAcros compendium. 
+
 
 This macro will be included in future release and will eventually make its way into core functionality of the mod. 
 
 ## Player Character Sheet Visual Enhancements
 
 ![alt text](pictures/charactersheet2.png) ![alt text](pictures/charactersheet3.png)
-
-- The entire character sheet is scalable from .8 (80% of default) to 1 (default)
-- The navigation tabs have been relocated to the character sheet header and dressed up a bit.
-  - As of v1.2.0 this is now optional.     
-- The header image can be replaced, or removed.
-- The header background color can be selected.
-  - This is typically buried under the image, but if the image is removed, or one with transparency is used, the color will be visible.
-- Some header text elements can be colored.
-- Hue-Rotation: A color filter can be applied to the entire header, affecting all elements, using the hue-rotation method.
-- On other tabs of the sheet (Inventory/Spells, etc..) the section banners (Weapons, Consumables, etc..) on can be color changes, as well as the section header text. 
-  - https://www.w3schools.com/cssref/playdemo.php?filename=playcss_filter&preval=hue-rotate(90deg) for an example
 
 ## Player Character Sheet Functional Enhancements
 
