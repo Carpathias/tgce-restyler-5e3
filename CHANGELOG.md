@@ -32,7 +32,7 @@
   - May return in a future release. 
 
 ## v1.2.0
-### Resolved Issue[#4](https://github.com/Carpathias/tgce-restyler-5e3/issues/4)
+### Resolved [Issue #4](https://github.com/Carpathias/tgce-restyler-5e3/issues/4)
 - Relocate Navigation Tabs
   - The additional nav tab has been removed in favor of just a single Boolean setting to enable/disable.
   - This setting does require a reload.
