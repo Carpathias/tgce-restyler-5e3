@@ -1,4 +1,18 @@
 # [CHANGELOG]: TGCE Restyler for DnD5e 3+
+
+## v2.0.04
+### Enhancements
+
+- added color picker for Biography tab text 
+  - On version of the system prior to 3.1 that do not have dark mode, the bio text was unreadable when configuring a dark background color for the sheet in the Restyler UI.
+  - [Enhancement #9](https://github.com/Carpathias/tgce-restyler-5e3/issues/9)
+
+### Feature Request
+- added Hue Rotation capability to just the sheet header
+  - [Feature Request #9](https://github.com/Carpathias/tgce-restyler-5e3/issues/9)
+
+
+
 ## v2.0.03
 ### Bugfixes
 
