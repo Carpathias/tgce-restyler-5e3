@@ -42,11 +42,6 @@
   "esmodules": [
     "scripts/tgce-restyler-5e3.mjs"
   ],
-  "url": "https://github.com/Carpathias/tgce-restyler-5e3",
-  "readme": "https://github.com/Carpathias/tgce-restyler-5e3/blob/main/README.md",
-  "download": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/2.0.03/tgce-restyler-5e3.zip",
-  "manifest": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/2.0.03/module.json",
-  "changelog": "https://github.com/Carpathias/tgce-restyler-5e3/blob/main/CHANGELOG.md",
   "packs": [
     {
       "name": "restyler-macos",
@@ -59,5 +54,10 @@
       },
       "system": "dnd5e"
     }
-  ]
+  ],
+  "url": "https://github.com/Carpathias/tgce-restyler-5e3",
+  "readme": "https://github.com/Carpathias/tgce-restyler-5e3/blob/main/README.md",
+  "download": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/2.0.03/tgce-restyler-5e3.zip",
+  "manifest": "https://github.com/carpathias/tgce-restyler-5e3/releases/download/2.0.03/module.json",
+  "changelog": "https://github.com/Carpathias/tgce-restyler-5e3/blob/main/CHANGELOG.md"  
 }
