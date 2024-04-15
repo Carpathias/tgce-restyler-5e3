@@ -22,17 +22,13 @@ https://ko-fi.com/carpathias32056
 
 - This macro will eventually make its way into core functionality of the mod. 
 
-## Other Player Character Sheet Visual Enhancements
-
-![alt text](pictures/charactersheet2.png) ![alt text](pictures/charactersheet3.png)
-
-## Player Character Sheet Functional Enhancements
+## Skill/Tool hide/swap (enabled by default)
 
 ![alt text](pictures/skills-tools-toggle1.png) ![alt text](pictures/skills-tools-toggle2.png)
 
 - A button is added to the skill tree to toggle between skill and tools, reducing overall shett height. Especially on higher level characters with many tool proficiencies.
 
-## Chatcard Pill color highlights.
+## Chatcard Pill color highlights (enabled by default)
 
 ![alt text](pictures/notprofequippill.jpg)![alt text](pictures/concentrationpill.jpg)![alt text](pictures/profnotequippill.jpg)
 
