@@ -107,6 +107,7 @@
     "TgceRestyler5e3.BiographyTextColor": "Bography Text Color",
     "TgceRestyler5e3.TraitHeaderLabelInfo": "Note: This also affects the Traits Headers on the Biography tab of the sheet.",
     "TgceRestyler5e3.BioLabelInfo": "Note: Bio Header Label color (Ideals, Bonds..) will be overwritten by Trait Heade Labels Color if that setting is configured above.",
-    "TgceRestyler5e3.ContentLinkBGColor": "Journal Content Button Backgrounds"
+    "TgceRestyler5e3.ContentLinkBGColor": "Journal Content Button Backgrounds",
+    "TgceRestyler5e3.KoFi": "Buy Me a Coffee?"
 
 }
