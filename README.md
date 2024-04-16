@@ -9,28 +9,26 @@
 This module allows for restyling of some of the DnD5e System components for Foundry VTT. 
 Creating this module would not have been possible without the wonderful people who haunt the various channels of the Official Foundry VTT Discord Server. 
 
-Thanks, to you all. 
+### Buy me a coffee?
+https://ko-fi.com/carpathias32056
+
+## The Restyler UI is accessed from the Character Sheet using the header button labeled with a paintbrush.
+
 ![Restyler0](https://github.com/Carpathias/tgce-restyler-5e3/assets/79472577/eccee81f-9d70-4a05-bfdc-0c245e295396)
 
 ![Restyler1](https://github.com/Carpathias/tgce-restyler-5e3/assets/79472577/9902473c-f8ee-4c22-b12e-696e9f3af7a6)
-
-## The Restyler UI is accessed from the Character Sheet using the header button labeled with a paintbrush.
 
 ### Restyler config is per Actor. If you want to copy the Restyler config from one actor to another, you can use the *Copy Flags from Actor* macro in the module's Restyler Macros compendium. 
 
 - This macro will eventually make its way into core functionality of the mod. 
 
-## Player Character Sheet Visual Enhancements
-
-![alt text](pictures/charactersheet2.png) ![alt text](pictures/charactersheet3.png)
-
-## Player Character Sheet Functional Enhancements
+## Skill/Tool hide/swap (enabled by default)
 
 ![alt text](pictures/skills-tools-toggle1.png) ![alt text](pictures/skills-tools-toggle2.png)
 
 - A button is added to the skill tree to toggle between skill and tools, reducing overall shett height. Especially on higher level characters with many tool proficiencies.
 
-## Chatcard Pill color highlights.
+## Chatcard Pill color highlights (enabled by default)
 
 ![alt text](pictures/notprofequippill.jpg)![alt text](pictures/concentrationpill.jpg)![alt text](pictures/profnotequippill.jpg)
 
