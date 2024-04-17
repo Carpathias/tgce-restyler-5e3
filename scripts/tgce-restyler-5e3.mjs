@@ -126,7 +126,7 @@ class Restyler extends FormApplication {
             submitOnChange  : false,
             submitOnClose   : true,
             closeOnSubmit   : false,
-            scrollY         : [".middle-section"],
+            scrollY         : [".panes"],
             resizable       : true
         });       
     }
@@ -142,6 +142,7 @@ class Restyler extends FormApplication {
                 case "clear"            : element.addEventListener("click"      , this._onClickClear.bind(this));           break;
                 case "save-close"       : element.addEventListener("click"      , this._onClickSaveClose.bind(this));       break;
                 case "get-filepath"     : element.addEventListener("click"      , this._onClickFilePicker.bind(this));      break;
+                case "activate-pane"    : element.addEventListener("click"      , this._onActivateTab.bind(this));          break;
                 case "get-hexcolor"     : element.addEventListener("input"      , this._onColorValueChange.bind(this));     break;
                 case "get-range"        : element.addEventListener("input"      , this._onRangeValueChange.bind(this));     
                 case "get-range"        : element.addEventListener("mousewheel" , this._onRangeValueChange.bind(this));     break;
@@ -149,8 +150,14 @@ class Restyler extends FormApplication {
         });
     } 
 
+    _onActivateTab(event) {
+        debugLog('green', `${event.target.id} Tab activated`);        
+        document.getElementsByClassName('pane active')[0].classList.remove('active');
+        document.getElementById(`${event.target.id}-tab`).classList.add('active');
+    }
+
     _onClickDefaults(event) {
-        debugLog('green', `${event.target.id} Defaults button clicked`)        
+        debugLog('green', `${event.target.id} Defaults button clicked`);
         //? Removing cssRules for Actor from DnD5e styleSheet
         debugLog('cyan', `- Removing CSS Rules in DOM for actor ${this.actor._id}...`)
         const myStyleSheet = Array.from(document.styleSheets).find((ss) => ss?.href?.includes(CSS_HREF))
