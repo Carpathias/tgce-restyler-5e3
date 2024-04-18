@@ -121,13 +121,13 @@ class Restyler extends FormApplication {
         return foundry.utils.mergeObject(super.defaultOptions, {
             classes         : [MODULE],
             template        : `modules/${MODULE}/templates/tgce-restyler-5e3.hbs`,
-            width           : 500,
-            height          : 500,                    
+            width           : 575,
+            height          : 575,                    
             submitOnChange  : false,
             submitOnClose   : true,
             closeOnSubmit   : false,
             scrollY         : [".panes"],
-            resizable       : true
+            resizable       : false
         });       
     }
    
