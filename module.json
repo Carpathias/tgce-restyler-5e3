@@ -13,7 +13,7 @@
   "version": "2.0.04",
   "compatibility": {
     "minimum": "11.315",
-    "verified": "11.315"
+    "verified": "12.320"
   },
   "styles": [
     "styles/tgce-restyler-5e3.css"

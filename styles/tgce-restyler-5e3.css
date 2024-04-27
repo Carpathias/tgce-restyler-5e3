@@ -38,6 +38,11 @@
 
 .tgce-restyler-5e3 .tab {
   border-radius: 10px;
+  color: black;
+}
+
+.tgce-restyler-5e3 .tab.current {
+  color: red;
 }
 
 .tgce-restyler-5e3 .flex-container {

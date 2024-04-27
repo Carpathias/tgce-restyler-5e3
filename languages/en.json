@@ -2,24 +2,39 @@
     "TgceRestyler5e3.Brand": "The Greatest Campaign Ever!",
     "TgceRestyler5e3.Title": "Restyler for DnD5e v3: {name}",
     "TgceRestyler5e3.Header": "Restyler",
-    "TgceRestyler5e3.SettingHeaderLabel": "Enable Character Sheet Editing",
-    "TgceRestyler5e3.SettingHeaderLabelHint": "This setting enables the ability for players to edit their character sheet appearance. The Restyler UI is accessed from the paintbrush button in the header of the character sheet.",
+    
+    "TgceRestyler5e3.Form.Header.FAQ": "FAQ Documentation",
+    "TgceRestyler5e3.Form.Header.KoFi": "Buy Me a Coffee?",
+
+    "TgceRestyler5e3.Setting.Name.EnableRestyler": "Enable Character Sheet Editing",
+    "TgceRestyler5e3.Setting.Hint.EnableRestyler": "This setting enables the ability for players to edit their character sheet appearance. The Restyler UI is accessed from the paintbrush button in the header of the character sheet.",
+    "TgceRestyler5e3.Setting.Name.SkillToolToggle": "Enable Skill/Tool Toggle",
+    "TgceRestyler5e3.Setting.Hint.SkillToolToggle": "This setting when enabled will inject a button that will allow Skill/Tool toggle, reducing the overall height requirement of the character sheet.",
+    "TgceRestyler5e3.Setting.Name.ChatPillToggle": "Colorize Chat Pills",
+    "TgceRestyler5e3.Setting.Hint.ChatPillToggle": "This setting when enabled will color the Equipped/Proficient chat pills green/red on chat cards containing them.",
+    
+    "TgceRestyler5e3.Tab.Images": "Images",
+    "TgceRestyler5e3.Tab.Header": "Header",
+    "TgceRestyler5e3.Tab.Portrait": "Portrait",
+    "TgceRestyler5e3.Tab.Favorites": "Favorites",
+    "TgceRestyler5e3.Tab.Skills": "Skills",
+    "TgceRestyler5e3.Tab.Traits": "Traits",
+    "TgceRestyler5e3.Tab.Other": "Other",
+    "TgceRestyler5e3.Tab.ColorAdj": "Color Adj",
+
     "TgceRestyler5e3.RelocateNav": "Relocate Nav Tabs To Header",
     "TgceRestyler5e3.RelocateNavHint": "This setting will relocate Navigation Tabs from the side to the header.",
-    "TgceRestyler5e3.SkillToolToggle": "Enable Skill/Tool Toggle",
-    "TgceRestyler5e3.SkillToolToggleHint": "This setting when enabled will inject a button that will allow Skill/Tool toggle, reducing the overall height requirement of the character sheet.",
-    "TgceRestyler5e3.ChatPillToggle": "Colorize Chat Pills",
-    "TgceRestyler5e3.ChatPillToggleHint": "This setting when enabled will color the Equipped/Proficient chat pills green/red on chat cards containing them.",
-    "TgceRestyler5e3.FAQ": "FAQ Documentation",
     "TgceRestyler5e3.SheetColorMode": "DND5e System Color Theme",
     "TgceRestyler5e3.LightMode": "Light Mode",
     "TgceRestyler5e3.DarkMode": "Dark Mode",
     "TgceRestyler5e3.ThemeInfo": "Caution: This setting changes the theme globally!",
-    "TgceRestyler5e3.ScalingInfo": "Caution: There is a known CSS bug with scaling that may pin the sheet to the top of your scree.",
+    
+    "TgceRestyler5e3.ScalingInfo": "Caution: There is a known CSS bug with scaling that may pin the sheet to the top of your screen.",
     "TgceRestyler5e3.HueRotationInfo": "Note: Hue-Rotation will shift the colors of the entire sheet. This is a great option for quickly changing the appearance of the sheet or for those suffering form color-blindness.",
     "TgceRestyler5e3.RemoveImageInfo": "Note: To remove any image replace with the transparent.png image in the module's assets folder.",
     "TgceRestyler5e3.UseTokenRingInfo": "Token rings work great for the Stat Badge, Character Level, and Inspiration Star.",
     "TgceRestyler5e3.CharacterSheetOptions": "Character Sheet General Options",
+
     "TgceRestyler5e3.SheetScale": "Sheet Scaling",
     "TgceRestyler5e3.SheetHueRotate": "Sheet Color Hue-Rotation",
     "TgceRestyler5e3.SheetBGColor": "Main Body Background Color",
@@ -107,7 +122,6 @@
     "TgceRestyler5e3.BiographyTextColor": "Bography Text Color",
     "TgceRestyler5e3.TraitHeaderLabelInfo": "Note: This also affects the Traits Headers on the Biography tab of the sheet.",
     "TgceRestyler5e3.BioLabelInfo": "Note: Bio Header Label color (Ideals, Bonds..) will be overwritten by Trait Heade Labels Color if that setting is configured above.",
-    "TgceRestyler5e3.ContentLinkBGColor": "Journal Content Button Backgrounds",
-    "TgceRestyler5e3.KoFi": "Buy Me a Coffee?"
+    "TgceRestyler5e3.ContentLinkBGColor": "Journal Content Button Backgrounds"
 
 }

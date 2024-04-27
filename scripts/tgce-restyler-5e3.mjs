@@ -26,8 +26,8 @@ class Restyler extends FormApplication {
     static init() {
                
         game.settings.register(`${MODULE}`, "enableSheetEdits", {
-            name            : "TgceRestyler5e3.SettingHeaderLabel",
-            hint            : "TgceRestyler5e3.SettingHeaderLabelHint",
+            name            : "TgceRestyler5e3.Setting.Name.EnableRestyler",
+            hint            : "TgceRestyler5e3.Setting.Hint.EnableRestyler",
             scope           : "world",
             config          : true,
             type            : Boolean,
@@ -35,8 +35,8 @@ class Restyler extends FormApplication {
             requiresReload  : false
         });
         game.settings.register(`${MODULE}`, "skillToolToggle", {
-            name            : "TgceRestyler5e3.SkillToolToggle",
-            hint            : "TgceRestyler5e3.SkillToolToggleHint",
+            name            : "TgceRestyler5e3.Setting.Name.SkillToolToggle",
+            hint            : "TgceRestyler5e3.Setting.Hint.SkillToolToggle",
             default         : true,
             type            : Boolean,
             scope           : 'client',
@@ -44,8 +44,8 @@ class Restyler extends FormApplication {
             requiresReload  : false
         });
         game.settings.register(`${MODULE}`, "chatPillColors", {
-            name            : "TgceRestyler5e3.ChatPillToggle",
-            hint            : "TgceRestyler5e3.ChatPillToggleHint",
+            name            : "TgceRestyler5e3.Setting.Name.ChatPillToggle",
+            hint            : "TgceRestyler5e3.Setting.Hint.ChatPillToggle",
             default         : true,
             type            : Boolean,
             scope           : 'client',
@@ -154,6 +154,8 @@ class Restyler extends FormApplication {
         debugLog('green', `${event.target.id} Tab activated`);        
         document.getElementsByClassName('pane active')[0].classList.remove('active');
         document.getElementById(`${event.target.id}-tab`).classList.add('active');
+        document.getElementsByClassName('tab current')[0].classList.remove('current');
+        document.getElementById(`${event.target.id}`).classList.add('current');        
     }
 
     _onClickDefaults(event) {

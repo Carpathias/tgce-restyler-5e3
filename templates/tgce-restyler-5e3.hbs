@@ -2,21 +2,21 @@
     <header>
         <img class="tgce-logo" src="/modules/tgce-restyler-5e3/data/TGCE_RestylerLogo.png">
         <div class="section-header">
-            <a href="https://github.com/Carpathias/tgce-restyler-5e3/blob/main/README.md">{{localize "TgceRestyler5e3.FAQ"}} </a>
+            <a href="https://github.com/Carpathias/tgce-restyler-5e3/blob/main/README.md">{{localize "TgceRestyler5e3.Form.Header.FAQ"}} </a>
             <i class="fa-solid fa-dice-d20"></i>
-            <a href="https://ko-fi.com/carpathias32056">{{localize "TgceRestyler5e3.KoFi"}} </a>
+            <a href="https://ko-fi.com/carpathias32056">{{localize "TgceRestyler5e3.Form.Header.KoFi"}} </a>
         </div>
     </header>
 
     <div class="tabs">
-        <button class="tab" id="images"     data-action="activate-pane">Images      </button>
-        <button class="tab" id="header"     data-action="activate-pane">Header      </button>
-        <button class="tab" id="portrait"   data-action="activate-pane">Portrait    </button>
-        <button class="tab" id="favorites"  data-action="activate-pane">Favorites   </button>
-        <button class="tab" id="skills"     data-action="activate-pane">Skills      </button>
-        <button class="tab" id="traits"     data-action="activate-pane">Traits      </button>
-        <button class="tab" id="other"      data-action="activate-pane">Other       </button>
-        <button class="tab" id="coloradj"   data-action="activate-pane">Color Adj   </button>
+        <button class="tab current" id="images"     data-action="activate-pane">{{localize "TgceRestyler5e3.Tab.Images"}}</button>
+        <button class="tab"         id="header"     data-action="activate-pane">{{localize "TgceRestyler5e3.Tab.Header"}}</button>
+        <button class="tab"         id="portrait"   data-action="activate-pane">{{localize "TgceRestyler5e3.Tab.Portrait"}}</button>
+        <button class="tab"         id="favorites"  data-action="activate-pane">{{localize "TgceRestyler5e3.Tab.Favorites"}}</button>
+        <button class="tab"         id="skills"     data-action="activate-pane">{{localize "TgceRestyler5e3.Tab.Skills"}}</button>
+        <button class="tab"         id="traits"     data-action="activate-pane">{{localize "TgceRestyler5e3.Tab.Traits"}}</button>
+        <button class="tab"         id="other"      data-action="activate-pane">{{localize "TgceRestyler5e3.Tab.Other"}}</button>
+        <button class="tab"         id="coloradj"   data-action="activate-pane">{{localize "TgceRestyler5e3.Tab.ColorAdj"}}</button>
     </div>
 
     <div class="flex-container">
@@ -35,8 +35,8 @@
                             class               = "imgpath text {{#if darkTheme}}tgce-dark{{/if}}"
                             type                = "text"
                             id                  = "sheet-bgimage"
-                            value               = "../../../modules/tgce-restyler-5e3/assets/transparent.jpg"                                        
-                            data-cssText        = "{{cssAnchorID}} .interactable.tab-details.flexcol||background||url(VALUE) no-repeat center / cover">
+                            value               = "modules/tgce-restyler-5e3/assets/transparent.jpg"                                        
+                            data-cssText        = "{{cssAnchorID}} .interactable.flexcol||background||url(VALUE) no-repeat center / cover">
                         <button 
                             class               = "filepick button {{#if darkTheme}}tgce-dark{{/if}}" 
                             type                = "button" 
@@ -63,7 +63,7 @@
                             class               = "imgpath text {{#if darkTheme}}tgce-dark{{/if}}"
                             type                = "text"
                             id                  = "header-bgimage"
-                            value               = "ui/official/banner-character.jpg"
+                            value               = "systems/dnd5e/ui/official/banner-character.jpg"
                             {{#if darkTheme}}
                             data-cssText        = ".dnd5e-theme-dark {{cssAnchorID}}.dnd5e2.sheet.actor.character .window-content::before||background-image||url(VALUE)"
                             data-cssRemove      = "{{cssAnchorID}}.dnd5e2.sheet.actor.character .sheet-header||NA||NA"
@@ -98,9 +98,9 @@
                             type                = "text"
                             id                  = "sheet-body-bgimage"
                             {{#if darkTheme}}
-                            value               = "/ui/denim075.png"
+                            value               = "systems/dnd5e/ui/denim075.png"
                             {{else}}
-                            value               = "/ui/parchment.jpg"
+                            value               = "systems/dnd5e/ui/parchment.jpg"
                             {{/if}}               
                             data-cssText        = "{{cssAnchorID}}.dnd5e2.sheet.actor.character .sheet-body||background-image||url(VALUE)"
                             data-cssText1       = ".dnd5e-theme-dark {{cssAnchorID}}.dnd5e2.sheet.actor.character .sheet-body||background-image||url(VALUE)">
