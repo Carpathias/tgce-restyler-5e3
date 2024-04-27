@@ -2182,10 +2182,19 @@
         <button 
             class               = "bottom-button"
             type                = "button" 
+            id                  = "copy-flags"
+            data-action         = "copy-flags">
+            <i class            = "fa-solid fa-copy"></i>
+            {{localize "TgceRestyler5e3.Button.CopyFlags"}}        
+        </button>
+        
+        <button 
+            class               = "bottom-button"
+            type                = "button" 
             id                  = "clear-all"
             data-action         = "defaults">
             <i class            = "fa-solid fa-eraser"></i>
-            {{localize "TgceRestyler5e3.Defaults"}}        
+            {{localize "TgceRestyler5e3.Button.Defaults"}}        
         </button>
 
         <button 
@@ -2193,7 +2202,7 @@
             type                = "submit" 
             id                  = "save">
             <i class            = "fa-solid fa-floppy-disk"></i>
-            {{localize "TgceRestyler5e3.Save"}}        
+            {{localize "TgceRestyler5e3.Button.Save"}}        
         </button>
 
         <button 
@@ -2202,6 +2211,6 @@
             id                  = "save-close"
             data-action         = "save-close">
             <i class            = "fa-solid fa-circle-xmark"></i>
-            {{localize "TgceRestyler5e3.SaveClose"}}        
+            {{localize "TgceRestyler5e3.Button.SaveClose"}}        
         </button>           </div>
 </form>

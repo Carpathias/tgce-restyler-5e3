@@ -79,9 +79,9 @@
     "TgceRestyler5e3.HueRotation": "Hue Rotation",
     "TgceRestyler5e3.HeaderHueRotation": "Header Hue Rotation",
     "TgceRestyler5e3.SheetHueRotation": "Whole Sheet Hue Rotation",
-    "TgceRestyler5e3.Defaults": "DnD5e System Defaults",
-    "TgceRestyler5e3.Save": "Save",
-    "TgceRestyler5e3.SaveClose": "Save & Close",
+    "TgceRestyler5e3.Button.Defaults": "Defaults",
+    "TgceRestyler5e3.Button.Save": "Save",
+    "TgceRestyler5e3.Button.SaveClose": "Save & Close",
     "TgceRestyler5e3.AbilityModSignColor": "Ability Mod +/- Color",
     "TgceRestyler5e3.PortraitPanelText": "Portrait Panel Text Color",
     "TgceRestyler5e3.HPBarColorLR": "Hit Point Meter Bar Color",
@@ -122,6 +122,7 @@
     "TgceRestyler5e3.BiographyTextColor": "Bography Text Color",
     "TgceRestyler5e3.TraitHeaderLabelInfo": "Note: This also affects the Traits Headers on the Biography tab of the sheet.",
     "TgceRestyler5e3.BioLabelInfo": "Note: Bio Header Label color (Ideals, Bonds..) will be overwritten by Trait Heade Labels Color if that setting is configured above.",
-    "TgceRestyler5e3.ContentLinkBGColor": "Journal Content Button Backgrounds"
+    "TgceRestyler5e3.ContentLinkBGColor": "Journal Content Button Backgrounds",
+    "TgceRestyler5e3.Button.CopyFlags": "Copy Flags"
 
 }
