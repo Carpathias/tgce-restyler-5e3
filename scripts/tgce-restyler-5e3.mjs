@@ -444,7 +444,7 @@ function updateCssImagePath(path){
     if (regex.test(path)) {
         return path;
     } else {
-        const newPath = `"../../../${path}"`
+        const newPath = `"../../${path}"`
         debugLog(null, `Corrected Image Path: ${newPath}`);
         return newPath;
     };   
