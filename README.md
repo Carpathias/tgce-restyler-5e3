@@ -1,4 +1,4 @@
-07/08/2024: Hi to all any anyone reading this. I apologize for my personal struggles with keeping up to dat e with the Core and System settings. I believe my mod works fine on V12 and 3.2 so i plan to verify and have a version out with a bumped up manifest by the end of July. I have a new version in the works with a frieldlier UI, and hope to have that out towards the end of September. Hopefully sooner, but you know, life. 
+07/08/2024: Hi to all any anyone reading this. I apologize for my personal struggles with keeping up to date with the Core and System versions. I believe my mod works fine on V12 and 3.2 so i plan to verify and have a version out with a bumped up manifest by the end of July. I have a new version in the works with a frieldlier UI, and hope to have that out towards the end of September. Hopefully sooner, but you know, life. 
 
 Regards and take care,
 Carp
